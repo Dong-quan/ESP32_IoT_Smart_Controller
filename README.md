@@ -129,5 +129,5 @@ ESP32_IoT_Smart_Controller/
 
 ## Author
 
-**Huynh Vo Phuc Loc**
-GitHub: [Dong-quan](https://github.com/Dong-quan)
+- **Huynh Vo Phuc Loc**
+- GitHub: [Dong-quan](https://github.com/Dong-quan)
